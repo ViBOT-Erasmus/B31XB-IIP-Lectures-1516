@@ -1,0 +1,27 @@
+[submodule "B31XB-IIP-Syllabus"]
+	path = B31XB-IIP-Syllabus
+	url = https://github.com/ViBOT-Erasmus/B31XB-IIP-Syllabus.git
+[submodule "B31XB-IIP-Lecture-7"]
+	path = B31XB-IIP-Lecture-7
+	url = https://github.com/ViBOT-Erasmus/B31XB-IIP-Lecture-7.git
+[submodule "B31XB-IIP-Lecture-8"]
+	path = B31XB-IIP-Lecture-8
+	url = https://github.com/ViBOT-Erasmus/B31XB-IIP-Lecture-8.git
+[submodule "B31XB-IIP-Lecture-5"]
+	path = B31XB-IIP-Lecture-5
+	url = https://github.com/ViBOT-Erasmus/B31XB-IIP-Lecture-5.git
+[submodule "B31XB-IIP-Lecture-4"]
+	path = B31XB-IIP-Lecture-4
+	url = https://github.com/ViBOT-Erasmus/B31XB-IIP-Lecture-4.git
+[submodule "B31XB-IIP-Lecture-3"]
+	path = B31XB-IIP-Lecture-3
+	url = https://github.com/ViBOT-Erasmus/B31XB-IIP-Lecture-3.git
+[submodule "B31XB-IIP-Lecture-2"]
+	path = B31XB-IIP-Lecture-2
+	url = https://github.com/ViBOT-Erasmus/B31XB-IIP-Lecture-2.git
+[submodule "B31XB-IIP-Lecture-1"]
+	path = B31XB-IIP-Lecture-1
+	url = https://github.com/ViBOT-Erasmus/B31XB-IIP-Lecture-1.git
+[submodule "B31XB-IIP-Project"]
+	path = B31XB-IIP-Project
+	url = https://github.com/ViBOT-Erasmus/B31XB-IIP-Project.git
